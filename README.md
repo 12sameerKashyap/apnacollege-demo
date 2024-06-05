@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my firrst git repository
+this is my first git repository
+author-Sameer
